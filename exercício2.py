@@ -1,0 +1,11 @@
+nome = input("Digite seu nome:")
+nota1 = float(input("1º nota:"))
+nota2 = float(input("2º nota:"))
+nota3 = float(input("3º nota:"))
+nota4 = float(input("4º nota:"))
+
+print("\nNome:",nome)
+print("nota1:",nota1)
+print("nota2:",nota2)
+print("nota3:",nota3)
+print("nota4:",nota4)
